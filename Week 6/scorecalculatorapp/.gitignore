@@ -1,0 +1,9 @@
+﻿# Auto-generated files
+node_modules/
+.DS_Store
+.env
+build/
+dist/
+
+# Logs
+npm-debug.log*
